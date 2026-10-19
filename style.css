@@ -13,3 +13,4 @@ ul.grid small{display:block;color:var(--muted)}
 .btn{display:inline-block;background:var(--gold);color:#0b2b22;font-weight:700;text-decoration:none;padding:12px 20px;border-radius:999px}
 button.say{background:none;border:1px solid var(--gold);color:var(--gold);border-radius:999px;padding:4px 12px;cursor:pointer;font-size:14px;margin-left:8px}
 .promo{text-align:center}footer{color:var(--muted);font-size:14px;border-top:1px solid var(--line);margin-top:40px;padding-top:16px}
+footer::before{content:"© 2026 Locua. Please link back to this page if you share it.";display:block;margin-bottom:6px}
