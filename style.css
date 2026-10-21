@@ -14,3 +14,5 @@ ul.grid small{display:block;color:var(--muted)}
 button.say{background:none;border:1px solid var(--gold);color:var(--gold);border-radius:999px;padding:4px 12px;cursor:pointer;font-size:14px;margin-left:8px}
 .promo{text-align:center}footer{color:var(--muted);font-size:14px;border-top:1px solid var(--line);margin-top:40px;padding-top:16px}
 footer::before{content:"© 2026 Locua. Please link back to this page if you share it.";display:block;margin-bottom:6px}
+header.site a:first-child{display:flex;align-items:center;gap:10px}
+header.site a:first-child::before{content:"";width:36px;height:36px;border-radius:50%;background:url(locua-96.png) center/cover}
